@@ -1,4 +1,5 @@
-LeetCode Solutions
+<h1>LeetCode</h1>
+
 Este repositório contém minhas soluções para problemas de algoritmos e estruturas de dados do LeetCode. O objetivo deste repositório é compartilhar meu progresso e aprendizado em algoritmos e programação competitiva, além de servir como um registro pessoal de estudo.
 
 📑 Estrutura do Repositório
